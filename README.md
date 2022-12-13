@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">Contact me</h2>
 
-<!--
-**w7xyz/w7xyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📌 C# and C++ Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hello I'am Nash Developer and Reverser Engineering
+
+- 🎓 Advanced Master in GameHacking
+
+- 🛒 Products `   CHEATING PRIVATE | SPOOFER | SOURCE CODE `
+
+- 💬 Discord [nash#1337](https://discord.com/users/831817809297276982)
+
+</pre><br>
